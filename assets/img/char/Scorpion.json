@@ -1,0 +1,174 @@
+{"frames": [
+
+{
+	"filename": "Scorpion_attack_1.png",
+	"frame": {"x":0,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_attack_2.png",
+	"frame": {"x":83,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_attack_3.png",
+	"frame": {"x":166,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_attack_4.png",
+	"frame": {"x":249,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_attack_5.png",
+	"frame": {"x":332,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_attack_6.png",
+	"frame": {"x":415,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_dead_1.png",
+	"frame": {"x":498,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_fall_1.png",
+	"frame": {"x":581,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_ground_1.png",
+	"frame": {"x":664,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_hurt_1.png",
+	"frame": {"x":747,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_hurt_2.png",
+	"frame": {"x":830,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_hurt_3.png",
+	"frame": {"x":913,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_idle_1.png",
+	"frame": {"x":996,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_idle_2.png",
+	"frame": {"x":1079,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_idle_3.png",
+	"frame": {"x":1162,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_walk_1.png",
+	"frame": {"x":1245,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_walk_2.png",
+	"frame": {"x":1328,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Scorpion_walk_3.png",
+	"frame": {"x":1411,"y":0,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":63},
+	"sourceSize": {"w":83,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Scorpion.png",
+	"format": "RGBA8888",
+	"size": {"w":1494,"h":63},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8d1d9dc780125e53ce4f85fcbba8ec00:5a56e16b19e9005676d6ae6ca051f192:5c834a6de784822610fe7226d02cffc0$"
+}
+}

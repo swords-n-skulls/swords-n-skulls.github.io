@@ -1,0 +1,489 @@
+{"frames": [
+
+{
+	"filename": "Orute_attack_1.png",
+	"frame": {"x":0,"y":0,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_2.png",
+	"frame": {"x":126,"y":0,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_3.png",
+	"frame": {"x":252,"y":0,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_4.png",
+	"frame": {"x":378,"y":0,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_5.png",
+	"frame": {"x":0,"y":142,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_6.png",
+	"frame": {"x":126,"y":142,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_7.png",
+	"frame": {"x":252,"y":142,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_8.png",
+	"frame": {"x":378,"y":142,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_9.png",
+	"frame": {"x":0,"y":284,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_attack_10.png",
+	"frame": {"x":126,"y":284,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_1.png",
+	"frame": {"x":252,"y":284,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_2.png",
+	"frame": {"x":378,"y":284,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_3.png",
+	"frame": {"x":0,"y":426,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_4.png",
+	"frame": {"x":126,"y":426,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_5.png",
+	"frame": {"x":252,"y":426,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_6.png",
+	"frame": {"x":378,"y":426,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_7.png",
+	"frame": {"x":0,"y":568,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_bash_8.png",
+	"frame": {"x":126,"y":568,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_block_1.png",
+	"frame": {"x":252,"y":568,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_block_2.png",
+	"frame": {"x":378,"y":568,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_dash_1.png",
+	"frame": {"x":0,"y":710,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_dash_2.png",
+	"frame": {"x":126,"y":710,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_dead_1.png",
+	"frame": {"x":252,"y":710,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_fall_1.png",
+	"frame": {"x":378,"y":710,"w":126,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":161},
+	"sourceSize": {"w":126,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_fall_2.png",
+	"frame": {"x":0,"y":871,"w":126,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":161},
+	"sourceSize": {"w":126,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_fall_3.png",
+	"frame": {"x":126,"y":871,"w":126,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":161},
+	"sourceSize": {"w":126,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_fall_4.png",
+	"frame": {"x":252,"y":871,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_getup_1.png",
+	"frame": {"x":378,"y":871,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_getup_2.png",
+	"frame": {"x":0,"y":1032,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_ground_1.png",
+	"frame": {"x":126,"y":1032,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_hurt_1.png",
+	"frame": {"x":252,"y":1032,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_hurt_2.png",
+	"frame": {"x":378,"y":1032,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_hurt_3.png",
+	"frame": {"x":0,"y":1174,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_hurt_4.png",
+	"frame": {"x":126,"y":1174,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_hurt_5.png",
+	"frame": {"x":252,"y":1174,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_idle_1.png",
+	"frame": {"x":378,"y":1174,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_idle_2.png",
+	"frame": {"x":0,"y":1316,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_idle_3.png",
+	"frame": {"x":126,"y":1316,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_jump_1.png",
+	"frame": {"x":252,"y":1316,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_jump_2.png",
+	"frame": {"x":378,"y":1316,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_jumpattack_1.png",
+	"frame": {"x":0,"y":1458,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_jumpattack_2.png",
+	"frame": {"x":126,"y":1458,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_run_1.png",
+	"frame": {"x":252,"y":1458,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_run_2.png",
+	"frame": {"x":378,"y":1458,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_run_3.png",
+	"frame": {"x":0,"y":1600,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_taunt_1.png",
+	"frame": {"x":126,"y":1600,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_taunt_2.png",
+	"frame": {"x":252,"y":1600,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_taunt_3.png",
+	"frame": {"x":378,"y":1600,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_taunt_4.png",
+	"frame": {"x":0,"y":1742,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_taunt_5.png",
+	"frame": {"x":126,"y":1742,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_walk_1.png",
+	"frame": {"x":252,"y":1742,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_walk_2.png",
+	"frame": {"x":378,"y":1742,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Orute_walk_3.png",
+	"frame": {"x":0,"y":1884,"w":126,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":142},
+	"sourceSize": {"w":126,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Orute.png",
+	"format": "RGBA8888",
+	"size": {"w":504,"h":2026},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f7ba58c7d5f34adc89e5e9555067ccb0:48493e6212378310702dd4ba4124576a:e1c7b7af57506106f1cdf40bb0600e24$"
+}
+}

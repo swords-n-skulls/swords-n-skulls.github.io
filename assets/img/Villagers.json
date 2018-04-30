@@ -1,0 +1,138 @@
+{"frames": [
+
+{
+	"filename": "Kidvillager_fall_1.png",
+	"frame": {"x":0,"y":0,"w":68,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":86},
+	"sourceSize": {"w":68,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Kidvillager_idle_1.png",
+	"frame": {"x":68,"y":0,"w":68,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":86},
+	"sourceSize": {"w":68,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Kidvillager_run_1.png",
+	"frame": {"x":136,"y":0,"w":68,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":86},
+	"sourceSize": {"w":68,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Kidvillager_run_2.png",
+	"frame": {"x":204,"y":0,"w":68,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":86},
+	"sourceSize": {"w":68,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "LadyVillager_run_1.png",
+	"frame": {"x":272,"y":0,"w":50,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":66},
+	"sourceSize": {"w":50,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "LadyVillager_run_2.png",
+	"frame": {"x":322,"y":0,"w":50,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":66},
+	"sourceSize": {"w":50,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "LadyVillager_run_3.png",
+	"frame": {"x":372,"y":0,"w":50,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":66},
+	"sourceSize": {"w":50,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MaleVillager_idle_1.png",
+	"frame": {"x":0,"y":86,"w":66,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":98},
+	"sourceSize": {"w":66,"h":98},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MaleVillager_run_1.png",
+	"frame": {"x":66,"y":86,"w":66,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":98},
+	"sourceSize": {"w":66,"h":98},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MaleVillager_run_2.png",
+	"frame": {"x":132,"y":86,"w":66,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":98},
+	"sourceSize": {"w":66,"h":98},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MaleVillager_run_3.png",
+	"frame": {"x":198,"y":86,"w":66,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":98},
+	"sourceSize": {"w":66,"h":98},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "OldladyVillager_run_1.png",
+	"frame": {"x":264,"y":86,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":78},
+	"sourceSize": {"w":56,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "OldladyVillager_run_2.png",
+	"frame": {"x":320,"y":86,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":78},
+	"sourceSize": {"w":56,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "OldladyVillager_run_3.png",
+	"frame": {"x":376,"y":86,"w":56,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":78},
+	"sourceSize": {"w":56,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Villager.png",
+	"format": "RGBA8888",
+	"size": {"w":432,"h":184},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:73cf589aeda6b0e7649293f1872afdce:6e837d3674a7eb0daa656d14a56d8ce3:0ab854085b4b58ef4fb35ccad31d55c6$"
+}
+}

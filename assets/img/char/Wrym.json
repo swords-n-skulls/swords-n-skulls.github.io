@@ -1,0 +1,183 @@
+{"frames": [
+
+{
+	"filename": "Wyrm_dead_1.png",
+	"frame": {"x":0,"y":0,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_fall_1.png",
+	"frame": {"x":74,"y":0,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_ground_1.png",
+	"frame": {"x":148,"y":0,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_hurt_1.png",
+	"frame": {"x":0,"y":67,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_hurt_2.png",
+	"frame": {"x":74,"y":67,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_hurt_3.png",
+	"frame": {"x":148,"y":67,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_hurt_4.png",
+	"frame": {"x":0,"y":134,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_idle_1.png",
+	"frame": {"x":74,"y":134,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_idle_2.png",
+	"frame": {"x":148,"y":134,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_idle_3.png",
+	"frame": {"x":0,"y":201,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_spit_1.png",
+	"frame": {"x":74,"y":201,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_spit_2.png",
+	"frame": {"x":148,"y":201,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_spit_3 -.png",
+	"frame": {"x":0,"y":268,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_spit_4.png",
+	"frame": {"x":74,"y":268,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_spit_5.png",
+	"frame": {"x":148,"y":268,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_spit_6.png",
+	"frame": {"x":0,"y":335,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_walk_1.png",
+	"frame": {"x":74,"y":335,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_walk_2.png",
+	"frame": {"x":148,"y":335,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wyrm_walk_3.png",
+	"frame": {"x":0,"y":402,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":67},
+	"sourceSize": {"w":74,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Wrym.png",
+	"format": "RGBA8888",
+	"size": {"w":222,"h":469},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a61ab6c7842731be05ff6e36c0d20b1c:1f2f181dd2cfbe2e90040be7e5c2b9e2:cd92a4340e9e8c598799def6138c5acd$"
+}
+}

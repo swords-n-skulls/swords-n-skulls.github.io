@@ -1,0 +1,390 @@
+{"frames": [
+
+{
+	"filename": "Fiend_dead_1.png",
+	"frame": {"x":1696,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_fall_1.png",
+	"frame": {"x":0,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_fall_2.png",
+	"frame": {"x":278,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_fall_3.png",
+	"frame": {"x":139,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_fall_4.png",
+	"frame": {"x":1835,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_getup_1.png",
+	"frame": {"x":1557,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_getup_2.png",
+	"frame": {"x":1140,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_ground_1.png",
+	"frame": {"x":1418,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_hurt_1.png",
+	"frame": {"x":1279,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_hurt_2.png",
+	"frame": {"x":417,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_hurt_3.png",
+	"frame": {"x":556,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_hurt_4.png",
+	"frame": {"x":1251,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_idle_1.png",
+	"frame": {"x":1529,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_idle_2.png",
+	"frame": {"x":1807,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_idle_3.png",
+	"frame": {"x":1668,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_punch_1.png",
+	"frame": {"x":1390,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_punch_2.png",
+	"frame": {"x":1112,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_punch_3.png",
+	"frame": {"x":695,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_punch_4.png",
+	"frame": {"x":973,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_punch_5.png",
+	"frame": {"x":834,"y":292,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_punch_6.png",
+	"frame": {"x":1001,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_1.png",
+	"frame": {"x":862,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_2.png",
+	"frame": {"x":848,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_3.png",
+	"frame": {"x":1126,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_4.png",
+	"frame": {"x":987,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_5.png",
+	"frame": {"x":709,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_6.png",
+	"frame": {"x":570,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_smash_7.png",
+	"frame": {"x":139,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_1.png",
+	"frame": {"x":424,"y":0,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_2.png",
+	"frame": {"x":278,"y":0,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_3.png",
+	"frame": {"x":1265,"y":0,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_4.png",
+	"frame": {"x":1411,"y":0,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_5.png",
+	"frame": {"x":139,"y":146,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_6.png",
+	"frame": {"x":424,"y":146,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_7.png",
+	"frame": {"x":716,"y":146,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_stomp_8.png",
+	"frame": {"x":570,"y":146,"w":146,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":146},
+	"sourceSize": {"w":146,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_taunt_1.png",
+	"frame": {"x":285,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_taunt_2.png",
+	"frame": {"x":0,"y":146,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_taunt_3.png",
+	"frame": {"x":1557,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_walk_1.png",
+	"frame": {"x":1835,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_walk_2.png",
+	"frame": {"x":1696,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Fiend_walk_3.png",
+	"frame": {"x":0,"y":0,"w":139,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":146},
+	"sourceSize": {"w":139,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Fiend.png",
+	"format": "RGBA8888",
+	"size": {"w":1974,"h":438},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:65af7edda0cd468af40eb54560e2da63:8d242fb3555c184222f7a0d6b0235297:d45968d65f60ec566466122f04d4a5a2$"
+}
+}
